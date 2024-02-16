@@ -81,7 +81,7 @@
             <div class="card-body">
                 <h1 class="card-title">My Profile Linktree</h1>
                 <div class="profile">
-                    <img src="img/profile_small.png" alt="Profile Picture">
+                    <img src="profile_small.png" alt="Profile Picture">
                     <h2>Mohamad Rosyadi</h2>
                 </div>
                 <ul class="social-links">
