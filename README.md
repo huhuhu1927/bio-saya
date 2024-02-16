@@ -1,6 +1,6 @@
 # My Profile Linktree
 
-![Preview](screenshot.png)
+![Preview](view.png)
 
 My Profile Linktree adalah sebuah situs web sederhana yang menampilkan profil dan tautan ke berbagai platform media sosial.
 
@@ -10,7 +10,7 @@ Situs web ini dibuat menggunakan HTML, CSS, dan beberapa ikon dari Font Awesome 
 
 ## Penggunaan
 
-Anda dapat mengakses situs web ini melalui tautan [My Profile Linktree](https://your-username.github.io/my-profile-linktree).
+Anda dapat mengakses situs web ini melalui tautan [My Profile Linktree]([https://your-username.github.io/my-profile-linktree](https://github.com/huhuhu1927/bio-saya/blob/main/index.html)).
 
 ## Kontribusi
 
